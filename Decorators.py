@@ -9,5 +9,7 @@ def repeat(n):
 @repeat(3)
 def say_hi():
     print("Hi!")
+    print("Hi!")
+    print("Hi!")
 
 say_hi()  # Prints Hi! three times
