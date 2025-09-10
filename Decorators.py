@@ -14,6 +14,3 @@ def say_hi():
 
 say_hi()  # Prints Hi! three times
 say_hi()  # Prints Hi! three times
-say_hi()  # Prints Hi! three times
-say_hi()  # Prints Hi! three times
-say_hi()  # Prints Hi! three times
